@@ -1,0 +1,39 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage{graphicx}
+\graphicspath{{pictures/}}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage{amsmath, amsfonts, amssymb, amsthm, mathtools, misccorr, indentfirst}
+\author{Павлова Валерия\\группа Б04-904}
+\title{Измерение магнитного поля Земли}
+\date{\today}
+\begin{document}
+\begin{titlepage}
+\begin{center}
+Московский Физико-Технический Институт\\
+(государственный университет)\\
+\vspace{0.5cm}
+Кафедра общей физики\\
+\vspace{1.5cm}
+\huge
+Измерение магнитного поля Земли\\
+\vspace{0.5cm}
+\small
+Лабораторная работа по курсу \textit{Общая физика: оптика}\\
+\vspace{5cm}
+\end{center}
+\begin{flushright}
+Работу выполнила:\\
+Павлова Валерия Денисовна\\
+группа Б04-904\\
+4 марта 2021.
+\end{flushright}
+\begin{center}
+\vspace{5.7 cm}
+Долгопрудный\\
+2021
+\end{center}
+\end{titlepage}
+\end{document}
