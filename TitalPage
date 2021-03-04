@@ -6,9 +6,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[english,russian]{babel}
 \usepackage{amsmath, amsfonts, amssymb, amsthm, mathtools, misccorr, indentfirst}
-\author{Павлова Валерия\\группа Б04-904}
-\title{Измерение магнитного поля Земли}
-\date{\today}
+
 \begin{document}
 \begin{titlepage}
 \begin{center}
